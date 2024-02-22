@@ -52,6 +52,10 @@ ol, ul {
 .page h1 span.color-yellow, .page h2 span.color-yellow {
     background-color: #fdc44f;
 }
+.page h1 span.color-blue, .page h2 span.color-blue {
+    background-color: #00b3ff;
+}
+
 
 .page h1 span, .page h2 span {
     padding: 0.3rem 0.5rem;
